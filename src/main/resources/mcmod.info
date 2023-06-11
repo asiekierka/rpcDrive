@@ -1,0 +1,14 @@
+[
+{
+  "modid" : "rpcdrive",
+  "name" : "rpcDrive",
+  "version" : "0.1.0",
+  "credits": "",
+  "authors": ["asie"],
+  "description": "RedPower<->ComputerCraft disk drive compatibility addon",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": []
+}
+]
